@@ -9,9 +9,9 @@ The internship focuses on hands-on drafting, 2D/3D modeling, and industry-standa
 ```
 CodeAlpha_AutoCAD_Internship/
 ├── 1.Task_1/     → 2D Drafting – Residential Floor Plan
-├── 2.Task_2/     → Mechanical Drawing – Machine Part (if completed)
-├── 3.Task_3/     → 3D Modeling (if completed)
-└── 4.Task_4/     → (if completed)
+├── 2.Task_2/     → Mechanical Drawing – Machine Part 
+├── 3.Task_3/     → 3D Modeling 
+└── 4.Task_4/     →
 ```
 
 Each task folder contains:
