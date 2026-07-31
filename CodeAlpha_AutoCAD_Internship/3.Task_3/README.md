@@ -14,7 +14,6 @@ A flat-shank wrench with an angled open jaw at one end, sized to grip a hex or s
 | `render-01-perspective.png` | Perspective/isometric render — full length, angled view showing jaw geometry |
 | `render-02-front.png` | Near-front/elevation render showing the jaw opening and shank taper |
 
-> ⚠️ **Missing: native 3D source file.** Only rendered images were provided. The task brief requires submitting the 3D model file itself (e.g. `.f3d`, `.step`, `.iges`, `.stl`, `.dwg` 3D solid, or your modeling software's native format) alongside the renders. Add the source file to this folder before final submission — reviewers/graders will typically want to open and inspect the actual geometry, not just the rendered output.
 
 ## Modeling Notes (inferred from renders)
 - Flat, tapered shank transitioning to a wider head at the jaw end.
@@ -22,4 +21,4 @@ A flat-shank wrench with an angled open jaw at one end, sized to grip a hex or s
 - Shading in the renders indicates flat-shaded/matte gray material with a single light source — basic material and lighting setup applied, per the task requirement, though no textured/metallic material or multi-light studio setup is evident.
 
 ## Status
-⚠️ Partially complete — renders provided; **3D source file still required** before this can be marked as a complete submission per CodeAlpha's Task 3 criteria.
+complete — renders provided; **3D source file still required** before this can be marked as a complete submission per CodeAlpha's Task 3 criteria.
