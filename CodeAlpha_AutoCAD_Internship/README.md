@@ -24,9 +24,9 @@ Each task folder contains:
 | Task | Description | Status |
 |------|-------------|--------|
 | Task 1 | 2D Floor Plan (residential, min. 2 bedrooms) | ✅ Complete |
-| Task 2 | Mechanical Drawing (machine part) | ⬜ Not started |
-| Task 3 | 3D Modeling | ⬜ Not started |
-| Task 4 | — | ⬜ Not started |
+| Task 2 | Mechanical Drawing (machine part) | ✅ Complete |
+| Task 3 | 3D Modeling | ✅ Complete |
+| Task 4 | — | ✅ Complete |
 
 ## About CodeAlpha
 
