@@ -34,12 +34,7 @@ A universal coupling (flange/pin-and-fork type) is a mechanical joint used to co
     └── render-02-exploded-angle.jpg
 ```
 
-## ⚠️ Missing Required Deliverable
-The task brief requires a **2–3 page project report** explaining the modeling workflow and output. That report has not been provided yet and should be added to this folder (e.g. `project-report.pdf`) before this task is submitted as complete. It should cover, at minimum:
-- Order in which parts were modeled
-- Constraints/mates used to build the `.catproduct` assembly (and resulting degrees of freedom)
-- Any interferences or fit issues checked
-- Summary of exported formats and why (STEP/IGES for interoperability, 3DXML for lightweight review)
+
 
 ## Status
-⚠️ Assembly modeling complete (5 parts, native + neutral formats, renders provided) — **project report still required** for full compliance with CodeAlpha's Task 4 criteria.
+ complete (5 parts, native + neutral formats, renders provided) — **project report still required** for full compliance with CodeAlpha's Task 4 criteria.
